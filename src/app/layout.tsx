@@ -9,12 +9,12 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Jual HP Bekas | Dapatkan Harga Terbaik untuk HP Lamamu",
+  title: "SStore | Jual HP Bekas | Dapatkan Harga Terbaik untuk HP Lamamu",
   description: "Jual atau tukar tambah HP bekas iPhone, Samsung, OPPO, Xiaomi dengan harga tinggi dan proses cepat. Layanan aman, terpercaya, dan gratis penjemputan!",
   keywords: ["jual hp bekas", "tukar tambah hp", "beli hp second", "jual iphone bekas", "jual samsung bekas"],
   authors: [{ name: "SStore" }],
   openGraph: {
-    title: "Jual HP Bekas | Dapatkan Harga Terbaik",
+    title: "SStore | Jual HP Bekas | Dapatkan Harga Terbaik",
     description: "Jual HP bekas dengan harga terbaik. Proses cepat dan aman!",
     type: "website",
   },
